@@ -68,7 +68,7 @@ export default function Home() {
             <div className="grid gap-4 sm:grid-cols-2">
               {[
                 { label: "Email", value: "brafnan26@gmail.com" },
-                { label: "Phone", value: "+91 95134 45522" },
+                { label: "Professional", value: "Btech CSE(AI/ML) student at NIAT" },
                 { label: "Location", value: "Bengaluru, India" },
                 { label: "Response time", value: "Within 24 hours" },
               ].map((item) => (
