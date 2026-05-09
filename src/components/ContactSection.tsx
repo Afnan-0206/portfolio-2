@@ -1,7 +1,7 @@
 "use client";
 
 import { AnimatePresence, motion } from "framer-motion";
-import { Github, Linkedin, Mail, Phone, MapPin, Clock3, FileText, Sparkles } from "lucide-react";
+import { GithubIcon, Linkedin, Mail, Phone, MapPin, Clock3, FileText, Sparkles } from "lucide-react";
 import { useMemo, useState } from "react";
 
 interface FormState {
