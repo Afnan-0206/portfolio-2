@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { useScroll, useTransform, motion } from "framer-motion";
+import { useScroll, useTransform } from "framer-motion";
 
 const TOTAL_FRAMES = 105;
 const FRAME_PADDING = 3; // Pad with zeros (e.g., 000, 001)
